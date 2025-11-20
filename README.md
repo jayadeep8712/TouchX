@@ -30,49 +30,43 @@
 
 # \### ✨ Accessibility First
 
-# 
+# \- \*\*Adaptive Sensitivity\*\* - Automatically adjusts to your movement ability
 
-# \* \*\*Adaptive Sensitivity\*\* - Automatically adjusts to your movement ability
+# \- \*\*Multiple Mobility Profiles\*\* - Pre-configured settings for different ability levels
 
-# \* \*\*Multiple Mobility Profiles\*\* - Pre-configured settings for different ability levels
+# \- \*\*Voice \& Visual Feedback\*\* - Clear confirmation of all actions
 
-# \* \*\*Voice \& Visual Feedback\*\* - Clear confirmation of all actions
-
-# \* \*\*No Hardware Required\*\* - Works with any standard webcam
+# \- \*\*No Hardware Required\*\* - Works with any standard webcam
 
 # 
 
 # \### 🎮 Intuitive Gestures
 
-# 
+# | Gesture | Action | Usage |
 
-# | Gesture             | Action         | Usage                    |
+# |---------|--------|-------|
 
-# | ------------------- | -------------- | ------------------------ |
+# | 👆 \*\*Index Finger\*\* | Move Cursor | Natural pointer movement |
 
-# | 👆 \*\*Index Finger\*\* | Move Cursor    | Natural pointer movement |
+# | 👌 \*\*Pinch \& Hold\*\* | Left Click | Select, open, activate |
 
-# | 👌 \*\*Pinch \& Hold\*\* | Left Click     | Select, open, activate   |
+# | ✌️ \*\*Peace Sign\*\* | Right Click | Context menus, options |
 
-# | ✌️ \*\*Peace Sign\*\*   | Right Click    | Context menus, options   |
+# | 🤜 \*\*Fist\*\* | Drag \& Drop | Move files, select text |
 
-# | 🤜 \*\*Fist\*\*         | Drag \& Drop    | Move files, select text  |
-
-# | 👍 \*\*Thumbs Up\*\*    | Special Action | Quick app launching      |
+# | 👍 \*\*Thumbs Up\*\* | Special Action | Quick app launching |
 
 # 
 
 # \### 🔧 Smart Technology
 
-# 
+# \- \*\*Real-time Hand Tracking\*\* - Powered by Google MediaPipe AI
 
-# \* \*\*Real-time Hand Tracking\*\* - Powered by Google MediaPipe AI
+# \- \*\*Adaptive Dwell Times\*\* - Customizable activation delays
 
-# \* \*\*Adaptive Dwell Times\*\* - Customizable activation delays
+# \- \*\*Movement Smoothing\*\* - Reduces hand tremors for precise control
 
-# \* \*\*Movement Smoothing\*\* - Reduces hand tremors for precise control
-
-# \* \*\*Gesture Learning\*\* - Improves recognition over time
+# \- \*\*Gesture Learning\*\* - Improves recognition over time
 
 # 
 
@@ -86,11 +80,7 @@
 
 # 1\. \*\*Clone or Download\*\* the project files
 
-# 
-
 # 2\. \*\*Set up Python environment\*\*:
-
-# 
 
 # &nbsp;  ```bash
 
@@ -106,8 +96,6 @@
 
 # 3\. \*\*Install dependencies\*\*:
 
-# 
-
 # &nbsp;  ```bash
 
 # &nbsp;  pip install -r requirements.txt
@@ -122,8 +110,6 @@
 
 # 1\. \*\*Run the application\*\*:
 
-# 
-
 # &nbsp;  ```bash
 
 # &nbsp;  python gestureaid.py
@@ -134,25 +120,21 @@
 
 # 2\. \*\*Follow the setup wizard\*\*:
 
-# 
+# &nbsp;  - Enter your name
 
-# &nbsp;  \* Enter your name
+# &nbsp;  - Select mobility level (High/Medium/Low)
 
-# &nbsp;  \* Select mobility level (High/Medium/Low)
-
-# &nbsp;  \* System auto-configures optimal settings
+# &nbsp;  - System auto-configures optimal settings
 
 # 
 
 # 3\. \*\*Position yourself\*\*:
 
-# 
+# &nbsp;  - Sit comfortably facing your webcam
 
-# &nbsp;  \* Sit comfortably facing your webcam
+# &nbsp;  - Ensure good lighting
 
-# &nbsp;  \* Ensure good lighting
-
-# &nbsp;  \* Keep hand visible in camera view
+# &nbsp;  - Keep hand visible in camera view
 
 # 
 
@@ -165,8 +147,6 @@
 # 
 
 # \#### 🖱️ Cursor Movement
-
-# 
 
 # ```
 
@@ -181,8 +161,6 @@
 # 
 
 # \#### 📝 Clicking \& Selection
-
-# 
 
 # ```
 
@@ -200,8 +178,6 @@
 
 # \#### 📁 File Management
 
-# 
-
 # ```
 
 # 1\. 👆 Move cursor to file
@@ -217,8 +193,6 @@
 # 
 
 # \#### 🎯 Right-Click Actions
-
-# 
 
 # ```
 
@@ -237,8 +211,6 @@
 # 
 
 # \#### 💼 Work Scenario
-
-# 
 
 # ```
 
@@ -274,8 +246,6 @@
 
 # \#### 🏠 Personal Use
 
-# 
-
 # ```
 
 # \# Web Browsing
@@ -306,43 +276,37 @@
 
 # \#### 🟢 High Mobility
 
-# 
+# \- Dwell Time: 0.5 seconds
 
-# \* Dwell Time: 0.5 seconds
+# \- Sensitivity: High
 
-# \* Sensitivity: High
+# \- Smoothing: Minimal
 
-# \* Smoothing: Minimal
-
-# \* Best for: Good hand control, fast movements
+# \- Best for: Good hand control, fast movements
 
 # 
 
 # \#### 🟡 Medium Mobility
 
-# 
+# \- Dwell Time: 1.0 seconds
 
-# \* Dwell Time: 1.0 seconds
+# \- Sensitivity: Medium
 
-# \* Sensitivity: Medium
+# \- Smoothing: Moderate
 
-# \* Smoothing: Moderate
-
-# \* Best for: Some limitations, arthritis
+# \- Best for: Some limitations, arthritis
 
 # 
 
 # \#### 🔴 Low Mobility
 
-# 
+# \- Dwell Time: 1.5 seconds
 
-# \* Dwell Time: 1.5 seconds
+# \- Sensitivity: Low
 
-# \* Sensitivity: Low
+# \- Smoothing: Maximum
 
-# \* Smoothing: Maximum
-
-# \* Best for: Significant limitations, tremors
+# \- Best for: Significant limitations, tremors
 
 # 
 
@@ -352,15 +316,13 @@
 
 # Edit `gestureaid.py` to modify:
 
-# 
+# \- \*\*Dwell times\*\* - Adjust activation delays
 
-# \* \*\*Dwell times\*\* - Adjust activation delays
+# \- \*\*Gesture sensitivity\*\* - Fine-tune detection
 
-# \* \*\*Gesture sensitivity\*\* - Fine-tune detection
+# \- \*\*Screen mapping\*\* - Change movement area
 
-# \* \*\*Screen mapping\*\* - Change movement area
-
-# \* \*\*Custom actions\*\* - Add new gesture commands
+# \- \*\*Custom actions\*\* - Add new gesture commands
 
 # 
 
@@ -369,8 +331,6 @@
 # 
 
 # \### Rehabilitation Progress
-
-# 
 
 # ```
 
@@ -388,19 +348,15 @@
 
 # \### Usage Tracking
 
-# 
-
 # The system logs:
 
-# 
+# \- Session duration
 
-# \* Session duration
+# \- Gesture success rates
 
-# \* Gesture success rates
+# \- Movement patterns
 
-# \* Movement patterns
-
-# \* Progress over time
+# \- Progress over time
 
 # 
 
@@ -410,35 +366,29 @@
 
 # \### System Requirements
 
-# 
+# \- \*\*Python\*\*: 3.8 or higher
 
-# \* \*\*Python\*\*: 3.8 or higher
+# \- \*\*Camera\*\*: Standard webcam (720p+ recommended)
 
-# \* \*\*Camera\*\*: Standard webcam (720p+ recommended)
+# \- \*\*OS\*\*: Windows, macOS, or Linux
 
-# \* \*\*OS\*\*: Windows, macOS, or Linux
-
-# \* \*\*RAM\*\*: 4GB minimum, 8GB recommended
+# \- \*\*RAM\*\*: 4GB minimum, 8GB recommended
 
 # 
 
 # \### Dependencies
 
-# 
+# \- OpenCV - Computer vision processing
 
-# \* OpenCV - Computer vision processing
+# \- MediaPipe - AI hand tracking
 
-# \* MediaPipe - AI hand tracking
+# \- NumPy - Mathematical operations
 
-# \* NumPy - Mathematical operations
-
-# \* PyAutoGUI - System input control
+# \- PyAutoGUI - System input control
 
 # 
 
 # \### Architecture
-
-# 
 
 # ```
 
@@ -466,13 +416,13 @@
 
 # 
 
-# \* \*\*New Gestures\*\* - Additional control options
+# \- \*\*New Gestures\*\* - Additional control options
 
-# \* \*\*Voice Control\*\* - Combined voice+gesture input
+# \- \*\*Voice Control\*\* - Combined voice+gesture input
 
-# \* \*\*Therapist Dashboard\*\* - Progress monitoring
+# \- \*\*Therapist Dashboard\*\* - Progress monitoring
 
-# \* \*\*Multi-language\*\* - International support
+# \- \*\*Multi-language\*\* - International support
 
 # 
 
@@ -482,25 +432,21 @@
 
 # \### Getting Help
 
-# 
+# \- \*\*Documentation\*\*: Check this README first
 
-# \* \*\*Documentation\*\*: Check this README first
+# \- \*\*Issues\*\*: Report bugs on GitHub
 
-# \* \*\*Issues\*\*: Report bugs on GitHub
-
-# \* \*\*Community\*\*: Join discussions for tips and support
+# \- \*\*Community\*\*: Join discussions for tips and support
 
 # 
 
 # \### Training Resources
 
-# 
+# \- Video tutorials available on our website
 
-# \* Video tutorials available on our website
+# \- Printable gesture reference cards
 
-# \* Printable gesture reference cards
-
-# \* Therapist training materials
+# \- Therapist training materials
 
 # 
 
@@ -508,13 +454,13 @@
 
 # 
 
-# \* \*\*Google MediaPipe\*\* for advanced hand tracking AI
+# \- \*\*Google MediaPipe\*\* for advanced hand tracking AI
 
-# \* \*\*OpenCV community\*\* for computer vision tools
+# \- \*\*OpenCV community\*\* for computer vision tools
 
-# \* \*\*Testers and therapists\*\* who provided valuable feedback
+# \- \*\*Testers and therapists\*\* who provided valuable feedback
 
-# \* \*\*Users worldwide\*\* who inspire continued development
+# \- \*\*Users worldwide\*\* who inspire continued development
 
 # 
 
@@ -553,6 +499,8 @@
 # 
 
 # \*\*Transform your computer interaction today!\*\* 🎉
+
+# 
 
 
 
