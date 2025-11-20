@@ -198,24 +198,6 @@ GestureAid System
 ├── User Profile Management
 └── Action Execution
 ```
-
-## 🤝 Contributing
-We welcome contributions to improve GestureAid! Areas for development:
-- **New Gestures** - Additional control options
-- **Voice Control** - Combined voice+gesture input
-- **Therapist Dashboard** - Progress monitoring
-- **Multi-language** - International support
-
-## 📞 Support \& Community
-### Getting Help
-- **Documentation**: Check this README first
-- **Issues**: Report bugs on GitHub
-- **Community**: Join discussions for tips and support
-
-### Training Resources
-- Video tutorials available on our website
-- Printable gesture reference cards
-- Therapist training materials
  
 ---
 <div align="center">
@@ -225,9 +207,7 @@ GestureAid - Empowering Independence Through Technology**
 
 ## 🚀 Ready to Start?
 
-# 
-
-# ```bash
+```bash
 # Begin your gesture control journey
  python gestureaid.py
 ```
